@@ -1,4 +1,4 @@
-require './lib/intro_to_simple_array_manipulations.rb'
+'./lib/intro_to_simple_array_manipulations.rb'
 
 
 describe "using_push" do 
